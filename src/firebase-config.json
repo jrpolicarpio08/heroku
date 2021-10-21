@@ -1,9 +1,10 @@
 {
-  "apiKey": "AIzaSyDk7VMMBwr6bqDsrzbUYGpnthHaMioYe2s",
-  "authDomain": "chat-app-15946.firebaseapp.com",
-  "projectId": "chat-app-15946",
-  "storageBucket": "chat-app-15946.appspot.com",
-  "messagingSenderId": "533178884935",
-  "appId": "1:533178884935:web:ef9483d776d0107ffe6262",
-  "measurementId": "G-P58VBCQ0SY"
+  "apiKey": "AIzaSyBVT4gMGyx9vchcGxW655DOOvN06c3_0Q8",
+  "authDomain": "chatmid.firebaseapp.com",
+  "projectId": "chatmid",
+  "storageBucket": "chatmid.appspot.com",
+  "messagingSenderId": "400097149806",
+  "appId": "1:400097149806:web:1109ab68868c40dc6a777f",
+  "measurementId": "G-KL2L4RX6X8"
+
 }
